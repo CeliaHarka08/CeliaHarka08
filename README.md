@@ -1,16 +1,15 @@
-### Hi there 👋
+### Boas vindas ao meu perfil 🖤
 
-<!--
-**CeliaHarka08/CeliaHarka08** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Meu nome é Celia Harka
 
-Here are some ideas to get you started:
+- Estou estudando no [Alura](https://www.alura.com.br)
+- Estou estudando nessa nova linguagem;
+- Uso essa pagina para minha organização;
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### entre em contato comigo 📧
+
+rocha.celia@escola.pr.gov.br
+
+@ceh.harka 🖤
+
+![](https://media.tenor.com/qA9FzZIZME8AAAAC/winnie-the.gif)
